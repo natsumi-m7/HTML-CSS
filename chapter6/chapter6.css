@@ -1,0 +1,40 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+
+.main-visual{
+	width:100%;
+	height:400px;
+	background-image:url(img/mv.jpg);
+	background-size:cover;
+	background-position:bottom;
+}
+
+
+.main-title{
+	padding:20px;
+
+}
+
+.main-container{
+	width:840px;
+	margin:50px auto;
+}
+
+.main-list{
+	padding-bottom:30px;
+	border-bottom:1px solid #DCDCDC;
+}
+
+.content{
+	font-size:14px;
+}
+.link{
+	font-size:14px;
+}
+
+.menu2,.menu3,.menu4{
+	padding-top:30px;
+}
