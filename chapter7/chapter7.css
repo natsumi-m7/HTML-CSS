@@ -3,3 +3,52 @@
 	margin:0;
 	box-sizing:border-box;
 }
+.container {
+	margin:50px auto;
+	width:960px;
+}
+
+.list{
+	margin-bottom:50px;
+}
+
+.list-item:nth-child(odd){
+	background-color:#D3D3D3;
+
+}
+.list-item{
+	padding:20px 0 20px 20px;
+}
+
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+
+.box{
+	width:30%;
+	height:200px;
+	float:left;
+}
+
+.img4,.img5,.img6{
+	margin-bottom:40px;
+	margin-top:40px;
+}
+
+.img2,.img5,.img8{
+	margin-right:5%;
+	margin-left:5%;
+}
+
+
+
+.or{
+	background-color:orange;
+}
+.ye{
+	background-color:yellow;
+}
+
